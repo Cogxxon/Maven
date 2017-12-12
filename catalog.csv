@@ -1,0 +1,21 @@
+category_id,worker_id,category_name,category_dpath,category_wildcard
+501,bls3,BlackList Season 3,\\prdvsan\vfs\Media\Television Series\TVS05\The Blacklist\The Blacklist Season 3,blacklist*S03
+502,ls1,Lucifer Season 1,\\prdvsan\vfs\Media\Television Series\TVS05\Lucifer\Season 1,Lucifer*S01
+503,ls4,Luther Season 4,\\prdvsan\vfs\Media\Television Series\TVS06\Luther\Luther - Season 4,Luther^S04
+504,mv1,Movies 1,\\prdvsan\vfs\Media\Movies\MF01,mov#1
+505,mv2,Movies 4,\\prdvsan\vfs\Media\Movies\MF04\STANDARD,mov#4
+506,tscs1,The Shannara Chronicles Season 1,\\prdvsan\vfs\Media\Television Series\TVS07\The Shannara Chronicles\Season 1,Shannara*Chronicles*s01
+507,ftwds1,Fear The Walking Dead Season 1,\\prdvsan\vfs\Media\Television Series\TVS06\Fear The Walking Dead\Season 1,Fear*The*Walking*Dead*s01
+508,pois4,Person of Interest Season 4,\\prdvsan\vfs\Media\Television Series\TVS07\Person of Interest\Season 4,Person*Interest*S04
+509,gs1,Gate,\\prdvsan\vfs\Media\Anime\Series\AF02\GATE,gate
+510,dws1,Dimension W,\\prdvsan\vfs\Media\Anime\Series\AF02\Dimension W,Dimension*W
+511,hais1,Hai to Gensou no Grimgar,\\prdvsan\vfs\Media\Anime\Series\AF02\Hai to Gensou no Grimgar,Hai*Gensou*Grimgar
+512,sh1,Schwarzesmarken,\\prdvsan\vfs\Media\Anime\Series\AF02\Schwarzesmarken,Schwarzesmarken
+513,msgibw,Mobile Suit Gundam - Iron-Blooded Orphans,\\prdvsan\vfs\Media\Anime\Series\AF04\Mobile Suit Gundam - Iron-Blooded Orphans,Gundam*Iron*Blooded*Orphans
+514,garo, Garo - The Crimson Moon,\\prdvsan\vfs\Media\Anime\Series\AF02\Garo - The Crimson Moon,garo
+515,wts1,World Trigger,\\prdvsan\vfs\Media\Anime\Series\AF02\World Trigger,World *rigger
+516,psons1,Phantasy Star Online 2 The Animation,\\prdvsan\vfs\Media\Anime\Series\AF02\Phantasy Star Online 2 The Animation,Phantasy*Star*Online
+517,Noblesse,Noblesse - Awakening,\\prdvsan\vfs\Media\Anime\Series\AF02\Noblesse,Noblesse
+518,dgs1,Divine Gate,\\prdvsan\vfs\Media\Anime\Series\AF09\Divine Gate,Divine*Gate
+519,kroks2,K - Return of Kings,\\prdvsan\vfs\Media\Anime\Series\AF06\K - Return of Kings\Season 2,K*Return*of*Kings
+520,tfs1,Terra Formars,\\prdvsan\vfs\Media\Anime\Series\AF02\Terra Formars,Terra*Formars
